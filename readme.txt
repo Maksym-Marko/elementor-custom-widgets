@@ -1,0 +1,1 @@
+Add to your website's active theme.
